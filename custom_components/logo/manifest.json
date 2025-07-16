@@ -1,0 +1,13 @@
+{
+  "codeowners": ["@RedBugGamer"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "",
+  "domain": "logo",
+  "iot_class": "local_push",
+  "name": "Logo interface",
+  "requirements": [
+    "python-snap7==2.0.2"
+  ],
+  "version": "1.0.0"
+}
