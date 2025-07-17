@@ -15,7 +15,7 @@ async def async_setup_platform(hass, config, async_add_entities, discovery_info=
     
     if controller is None:
         raise ValueError(f"Controller ID '{controller_id}' not found.")
-    _LOGGER.info("Controller is",controller)
+    _LOGGER.debug("Controller is",controller)
     # switch = LogoSwitch(controller)
     # async_add_entities([switch])
 
