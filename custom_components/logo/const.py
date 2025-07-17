@@ -1,1 +1,5 @@
 DOMAIN = "logo"
+CONF_TSAP = "tsap"
+CONF_ID = "id"
+CONF_IP_ADDRESS = "ip"
+CONF_CONTROLLER_ID = "controller_id"
