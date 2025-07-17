@@ -9,5 +9,6 @@
   "requirements": [
     "python-snap7==2.0.2"
   ],
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "platforms": ["switch"]
 }
